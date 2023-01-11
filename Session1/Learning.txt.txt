@@ -8,8 +8,8 @@
 *git push
 
 *git pull
-*git branch "Branch name"
-*git checkout "branch name"
+*git branch -b "Branch name"
+*git checkout  "branch name"
 *git merge "branch name"
 
 *git log
