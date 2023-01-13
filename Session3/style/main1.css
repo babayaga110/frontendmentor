@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+    
+}
+html-body{
+    margin: 0;
+    padding: 0;
+    
+}
+.ticket{
+    width: 900px;
+    height: 350 px;
+}
